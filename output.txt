@@ -1,1 +1,2 @@
-0 1 1 2 3 5
+Highest: 10 (Count: 4)
+Lowest: 15 (Count: 2)
