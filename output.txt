@@ -1,2 +1,1 @@
-Highest: 10 (Count: 4)
-Lowest: 15 (Count: 2)
+[ 9, 13, 20, 24, 46, 52 ]
